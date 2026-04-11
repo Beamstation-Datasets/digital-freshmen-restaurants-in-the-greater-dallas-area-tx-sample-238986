@@ -1,0 +1,22 @@
+{
+  "base_price": 2495,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "social",
+  "config_description": "--Stubborn owner barrier is gone--\n\nBusinesses starting their social activity is the ultimate buying signal. \nPitch them a complete overhaul today.\n\nSignals: \n1. New Openings\n2. A new modern Manager just took over\n3. The \"old-school\" founder handed the business to their kids. \n\nBusiness activity validated in the last 90 days by an \"Active Heartbeat\" signal.",
+  "config_name": "Digital Freshmen Restaurants in the Greater Dallas Area, TX",
+  "export_job_id": "729ddd1d-76b1-42b1-b3eb-d0f6ab9f1cf0",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 238986,
+  "location_name": "Dallas-Fort Worth-Arlington, TX",
+  "location_type": "metro",
+  "repo_name": "digital-freshmen-restaurants-in-the-greater-dallas-area-tx-sample-238986",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/238986/beamstation_238986_restaurants-us-dallasfortwortharlingtontx_SAMPLE_DIST.csv",
+  "sample_pct": 9.89,
+  "sample_records": 28,
+  "sample_sha256": "9c7256ed13f02cd25dc6144e0fb9907691298a52d37b3051937c81d1af8964aa",
+  "sample_size_bytes": 118959,
+  "total_records": 283,
+  "updated_at": "2026-04-07T15:47:29.536981+00:00"
+}
