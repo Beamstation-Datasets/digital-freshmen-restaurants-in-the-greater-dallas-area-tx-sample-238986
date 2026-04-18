@@ -1,6 +1,6 @@
 # Digital Freshmen Restaurants in the Greater Dallas Area, TX
 
-> Free BeamStation sample export with 28 rows and masked direct-contact fields.
+> Free BeamStation sample export with 27 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `238986` |
 | Location | Dallas-Fort Worth-Arlington, TX |
 | Category | Restaurants |
-| Full dataset size | 283 records |
-| Free sample size | 28 records (9.89%) |
-| Last export | 2026-04-07T15:47:29.536981+00:00 |
+| Full dataset size | 272 records |
+| Free sample size | 27 records (9.93%) |
+| Last export | 2026-04-14T22:10:42.688026+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/digital-freshmen-restaurants-in-the-greater-dallas-area-tx-sample-238986/releases/download/sample-latest/beamstation_238986_restaurants-us-dallasfortwortharlingtontx_SAMPLE_DIST.csv) |
 
 ## What is in this sample
