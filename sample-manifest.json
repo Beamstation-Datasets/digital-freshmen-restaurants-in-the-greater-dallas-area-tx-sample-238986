@@ -1,12 +1,12 @@
 {
-  "export_job_id": "8f406118-0222-4fdc-a3ca-d838457ebd59",
+  "export_job_id": "f11f6f06-c539-47bf-8d1a-2cfbd4dfec6c",
   "id_short": 238986,
-  "published_at": "2026-04-18T07:40:45Z",
+  "published_at": "2026-04-22T07:15:07Z",
   "repo_name": "digital-freshmen-restaurants-in-the-greater-dallas-area-tx-sample-238986",
   "sample_asset_name": "beamstation_238986_restaurants-us-dallasfortwortharlingtontx_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/238986/beamstation_238986_restaurants-us-dallasfortwortharlingtontx_SAMPLE_DIST.csv",
-  "sample_records": 27,
-  "sample_sha256": "1b89206439ebf626568a49042b1355a36a58e84505429e904de71c4d436f06d7",
-  "sample_size_bytes": 117057,
-  "total_records": 272
+  "sample_records": 16,
+  "sample_sha256": "278b4144703d336b5e65ff2f1b2d481e28da0bcdf896c2fc14641ff981dcd4a0",
+  "sample_size_bytes": 75346,
+  "total_records": 163
 }
